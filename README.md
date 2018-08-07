@@ -3,9 +3,9 @@
   1. Write a script to generate an p-ER random graph.
   2. Write a script to generate an r -regular random graph.
   3. Write a script to check the connectivity of a given graph.
-    - algebraic method 1 (irreducibility);
-    - algebraic method 2 (eigenvalue of the Laplacian matrix);
-    - breadth-first search algorithm.
+      - algebraic method 1 (irreducibility);
+      - algebraic method 2 (eigenvalue of the Laplacian matrix);
+      - breadth-first search algorithm.
   4. Compare the complexity as a function of n of the methods above.
   5. Let pc(G) denote the probability that a graph G is connected.
      Produce two graphs:
